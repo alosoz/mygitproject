@@ -10,6 +10,12 @@ public class MyGitClass {
 		System.out.println("Version uzak sunucudaki konum");
 		System.out.println("Version uzak sunucudaki konum");
 		System.out.println("Version uzak sunucudaki konum");
+		
+		
+		
+		System.out.println("Version uzak sunucudaki konum");
+		System.out.println("Version uzak sunucudaki konum");
+		System.out.println("Version uzak sunucudaki konum");
 	}
 
 }
